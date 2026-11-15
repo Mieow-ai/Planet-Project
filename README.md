@@ -13,8 +13,8 @@ Physical analysis and numerical simulations of planetary motion, apparent trajec
   * **2D Circular Model**: Animations of the inner Solar System (Mercury, Venus, Earth + Moon, Mars + Deimos) in both **heliocentric** and **geocentric** reference frames, highlighting apparent epicyclic trajectories.
   * **2D Elliptical Model**: Accurate orbital plotting using semi-major axes and perihelion distances.
 * **`Partie_2_3d.ipynb`**:
-  * **3D Inclined Ellipses**: Full 3D simulation of the 8 planets of the Solar System and the Moon taking orbital inclinations into account.
-  * **Probe Launch Simulation**: 3D circular model simulating a rocket/probe transfer from Earth to Mars orbit.
+  * **3D Inclined Ellipses**: Full 3D simulation of the 4 planets of the Solar System and the Moon taking orbital inclinations into account.
+  * **Probe Launch Simulation**: 3D circular model simulating a rocket/probe transfer from Earth to Mars orbit. The simulation isn't in the gif.
 
 ---
 
